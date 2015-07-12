@@ -15,3 +15,7 @@ ul.side-nav li a {
 ul.side-nav li {
   float: none;
 }
+
+ul.dropdown-content {
+  overflow: hidden;
+}
