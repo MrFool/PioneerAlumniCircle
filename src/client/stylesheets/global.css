@@ -19,3 +19,15 @@ ul.side-nav li {
 ul.dropdown-content {
   overflow: hidden;
 }
+
+.footer-social-text {
+  font-size: 1.7rem;
+}
+
+.footer-social {
+  margin: 10px 30px 10px 0px;
+}
+
+footer.page-footer {
+  padding-top: 0;
+}
