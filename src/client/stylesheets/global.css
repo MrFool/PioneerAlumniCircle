@@ -31,3 +31,12 @@ ul.dropdown-content {
 footer.page-footer {
   padding-top: 0;
 }
+
+.brand-logo-left-align {
+  position: absolute;
+  color: #fff;
+  display: inline-block;
+  font-size: 2.1rem;
+  padding: 0;
+  white-space: nowrap;
+}
