@@ -20,8 +20,12 @@ ul.dropdown-content {
   overflow: hidden;
 }
 
+.navbar-navlinks-text {
+  font-size: 2rem;
+}
+
 .footer-social-text {
-  font-size: 1.7rem;
+  font-size: 1.6rem;
 }
 
 .footer-social {
