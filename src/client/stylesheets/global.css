@@ -40,3 +40,7 @@ footer.page-footer {
   padding: 0;
   white-space: nowrap;
 }
+
+.desktop-navbar-links {
+  margin-left: 95px;
+}
