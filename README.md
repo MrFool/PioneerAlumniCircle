@@ -1,6 +1,8 @@
 PioneerAlumniCircle
 ===================
 
+The site is now live at [here](http://pioneeralumnicircle.meteor.com/) for per-release view.
+
 Pioneer Alumni Circle (PAC) Mission: To establish an extensive network of meaningful and fulfilling relationships among the students and alumni of Pioneer Junior College as well as to foster a vibrant Pioneer fraternity.
 
 PAC has been connecting and distributing information with it's alumni via a Facebook group and through friends.
