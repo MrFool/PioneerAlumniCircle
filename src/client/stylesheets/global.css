@@ -49,10 +49,6 @@ footer.page-footer {
   margin-left: 95px;
 }
 
-nav {
-  margin-bottom: 72px;
-}
-
 .second-nav span {
   color: black;
 }
@@ -62,6 +58,10 @@ nav {
     border-bottom: 2px;
     border-bottom-style: solid;
     border-bottom-color: black;
+  }
+
+  nav {
+    margin-bottom: 72px;
   }
 }
 
