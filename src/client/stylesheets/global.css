@@ -56,3 +56,15 @@ nav {
 .second-nav span {
   color: black;
 }
+
+@media (max-width:600px) {
+  .active {
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+  }
+}
+
+.clear-background {
+  background-color: rgba(0, 0, 0, 0) !important;
+}
