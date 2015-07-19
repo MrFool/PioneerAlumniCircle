@@ -20,8 +20,12 @@ ul.dropdown-content {
   overflow: hidden;
 }
 
+.navbar-navlinks-text {
+  font-size: 1.5rem;
+}
+
 .footer-social-text {
-  font-size: 1.7rem;
+  font-size: 1.5rem;
 }
 
 .footer-social {
@@ -39,4 +43,28 @@ footer.page-footer {
   font-size: 2.1rem;
   padding: 0;
   white-space: nowrap;
+}
+
+.desktop-navbar-links {
+  margin-left: 95px;
+}
+
+.second-nav span {
+  color: black;
+}
+
+@media (max-width:600px) {
+  .active {
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+  }
+
+  nav {
+    margin-bottom: 72px;
+  }
+}
+
+.clear-background {
+  background-color: rgba(0, 0, 0, 0) !important;
 }
