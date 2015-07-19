@@ -48,6 +48,32 @@
         <!-- <a class="button-collapse" href="#" data-activates="nav-mobile"><i class="mdi-navigation-menu"></i></a> -->
       </div>
     </div>
+
+    <div class="container second-nav hide-on-med-and-up">
+      <ul class="left">
+        <li class="{{ isActiveRoute regex='home' }}">
+          <a href="{{ pathFor 'home' }}" title="Home">
+            <span class="navbar-navlinks-text">
+              Home
+            </span>
+          </a>
+        </li>
+        <li class="{{ isActiveRoute regex='about' }}">
+          <a href="{{ pathFor 'about' }}" title="About">
+            <span class="navbar-navlinks-text">
+              About
+            </span>
+          </a>
+        </li>
+        <li class="">
+          <a href="#" title="Bursary">
+            <span class="navbar-navlinks-text">
+              Bursary
+            </span>
+          </a>
+        </li>
+      </ul>
+    </div>
   </nav>
 
   <ul id="nav-mobile" class="side-nav">
