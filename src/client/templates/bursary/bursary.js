@@ -1,0 +1,3 @@
+Template.bursary.rendered = function() {
+
+};
