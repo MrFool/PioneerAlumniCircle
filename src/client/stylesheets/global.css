@@ -68,3 +68,7 @@ footer.page-footer {
 .clear-background {
   background-color: rgba(0, 0, 0, 0) !important;
 }
+
+.donor-table {
+  margin-top: 14px;
+}
