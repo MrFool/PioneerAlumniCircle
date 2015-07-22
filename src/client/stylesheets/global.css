@@ -6,6 +6,14 @@ nav {
   margin-bottom: 24px;
 }
 
+nav a {
+  color: black !important;
+}
+
+.page-footer a, i, span {
+  color: black;
+}
+
 ul.side-nav li a {
   line-height: 44px;
   padding: 24px;
