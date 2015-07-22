@@ -6,6 +6,10 @@ Router.route('/about', {
   name: 'about'
 });
 
+Router.route('/bursary', {
+  name: 'bursary'
+})
+
 Router.route('/dashboard', {
   name: 'dashboard'
 });

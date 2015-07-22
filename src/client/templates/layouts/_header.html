@@ -19,8 +19,8 @@
               </span>
             </a>
           </li>
-          <li class="">
-            <a href="#" title="Bursary">
+          <li class="{{ isActiveRoute regex='bursary' }}">
+            <a href="{{ pathFor 'bursary' }}" title="Bursary">
               <span class="navbar-navlinks-text">
                 Bursary
               </span>
@@ -65,8 +65,8 @@
             </span>
           </a>
         </li>
-        <li class="clear-background">
-          <a href="#" title="Bursary">
+        <li class="{{ isActiveRoute regex='bursary' }} clear-background">
+          <a href="{{ pathFor 'bursary' }}" title="Bursary">
             <span class="navbar-navlinks-text">
               Bursary
             </span>
